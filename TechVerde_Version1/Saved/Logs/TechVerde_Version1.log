@@ -4563,3 +4563,651 @@ Script Stack (0 frames) :
 [2026.03.12-00.01.16:294][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2026.03.12-00.01.16:321][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2026.03.12-00.01.16:330][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 209.388 ms (total: 7.74 sec)
+[2026.03.12-00.02.17:436][258]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Personagem.Personagem
+[2026.03.12-00.02.17:436][258]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.03.12-00.02.48:272][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.12-00.03.02:584][  3]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Personagem.Personagem_C
+[2026.03.12-00.03.02:584][  3]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Personagem.Personagem_C
+[2026.03.12-00.03.02:585][  3]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Personagem.Personagem as actor: Personagem_C /Game/Mapa.Mapa:PersistentLevel.Personagem_C_0
+[2026.03.12-00.03.02:585][  3]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Personagem.Personagem as actor: Personagem_C /Game/Mapa.Mapa:PersistentLevel.Personagem_C_0
+[2026.03.12-00.03.02:656][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.03.12-00.03.02:692][  5]LogEditorActor: Deleted 0 Actors (0.069 secs)
+[2026.03.12-00.03.03:743][ 31]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Personagem.Personagem_C
+[2026.03.12-00.03.03:743][ 31]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Personagem.Personagem_C
+[2026.03.12-00.03.03:744][ 31]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Personagem.Personagem as actor: Personagem_C /Game/Mapa.Mapa:PersistentLevel.Personagem_C_1
+[2026.03.12-00.03.03:744][ 31]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Personagem.Personagem as actor: Personagem_C /Game/Mapa.Mapa:PersistentLevel.Personagem_C_1
+[2026.03.12-00.03.07:085][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.12-00.03.07:089][118]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.03.12-00.03.16:305][398]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-00.03.16:305][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.03.16:403][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.12-00.05.07:283][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4371.283691
+[2026.03.12-00.05.07:483][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-00.05.07:483][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4371.467285, Update Interval: 346.883759
+[2026.03.12-00.05.25:761][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.05.25:810][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.05.25:853][488]LogWorldPartition: Actor /Game/Mapa.Mapa:PersistentLevel.Blueprint_WallSconce_C_UAID_C87F54D139BDF4C602_1501150528 is unreachable without properly detaching object /Game/__ExternalActors__/Mapa/D/S4/0C66WD0Y9FLDJ9I5UL1TOB.PackageMetaData in its package
+[2026.03.12-00.05.25:855][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.12-00.05.25:865][488]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.05.25:866][488]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa137BC9744B055C833D5B8C9110AF7E73.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.05.25:874][488]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.05.25:875][488]LogFileHelpers: Saving map 'Mapa' took 0.066
+[2026.03.12-00.05.25:882][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.840 ms (total: 7.86 sec)
+[2026.03.12-00.05.25:929][488]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.05.25:929][488]LogContentValidation: Enabled validators:
+[2026.03.12-00.05.25:929][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.05.25:929][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.05.25:929][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.05.25:929][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.05.25:929][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.05.25:929][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.05.25:930][488]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.05.25:961][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.03.12-00.05.27:194][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.12-00.06.50:225][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.06.50:266][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.06.50:310][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.12-00.06.50:321][787]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.06.50:322][787]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa9C2FA9274FBC7679B83ACD82071F2EDD.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.06.50:329][787]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.06.50:330][787]LogFileHelpers: Saving map 'Mapa' took 0.065
+[2026.03.12-00.06.50:336][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.642 ms (total: 7.97 sec)
+[2026.03.12-00.06.50:386][787]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.06.50:386][787]LogContentValidation: Enabled validators:
+[2026.03.12-00.06.50:386][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.06.50:386][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.06.50:386][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.06.50:386][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.06.50:386][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.06.50:386][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.06.50:387][787]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.06.57:070][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.06.57:123][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.06.57:171][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.12-00.06.57:179][567]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.06.57:180][567]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/MapaDBC3BD684AF12486DBAD2DA6D5E769CF.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.06.57:189][567]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.06.57:189][567]LogFileHelpers: Saving map 'Mapa' took 0.067
+[2026.03.12-00.06.57:195][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.870 ms (total: 8.10 sec)
+[2026.03.12-00.06.57:243][567]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.06.57:243][567]LogContentValidation: Enabled validators:
+[2026.03.12-00.06.57:243][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.06.57:243][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.06.57:243][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.06.57:243][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.06.57:243][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.06.57:243][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.06.57:244][567]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.06.59:638][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.12-00.07.01:875][939]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.03.12-00.07.01:884][939]LogContentBundle: [Mapa(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-00.07.01:884][939]LogWorldPartition: Display: GenerateStreaming for 'Mapa' started...
+[2026.03.12-00.07.01:886][939]MapCheck: Error: O mundo faz referência a um ator carregado espacialmente /Game/Mapa.Cube 
+[2026.03.12-00.07.01:890][939]LogWorldPartition: Display: GenerateStreaming for 'Mapa' took 6.114 ms (total: 97.518 ms)
+[2026.03.12-00.07.01:891][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-00.07.01:891][939]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa
+[2026.03.12-00.07.01:903][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011532s)
+[2026.03.12-00.07.01:903][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa.Mapa to /Game/UEDPIE_0_Mapa.Mapa (0.011582s)
+[2026.03.12-00.07.01:931][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.12-00.07.01:935][939]LogChaosDD: Creating Chaos Debug Draw Scene for world Mapa
+[2026.03.12-00.07.01:938][939]LogWorldPartition: ULevel::OnLevelLoaded(Mapa)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-00.07.01:938][939]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-00.07.01:938][939]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Mapa.Mapa, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-00.07.01:938][939]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-00.07.01:946][939]LogWorldPartition: Display: WorldPartition initialize took 8.281 ms (total: 570.498 ms)
+[2026.03.12-00.07.01:946][939]LogPlayLevel: PIE: World Init took: (0.011250s)
+[2026.03.12-00.07.01:947][939]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.03.12-00.07.01:947][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-00.07.01:947][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-00.07.01:947][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-00.07.01:947][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-00.07.01:947][939]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-00.07.01:947][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-00.07.01:947][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-00.07.01:947][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-00.07.01:947][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-00.07.01:947][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-00.07.01:947][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-00.07.01:950][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-00.07.01:974][939]LogAudioMixer: Display: Using Audio Hardware Device 2 - 22B1WG5 (AMD High Definition Audio Device)
+[2026.03.12-00.07.01:974][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-00.07.01:974][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-00.07.01:974][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-00.07.01:975][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.03.12-00.07.01:975][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.03.12-00.07.01:977][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.03.12-00.07.01:977][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.03.12-00.07.01:977][939]LogInit: FAudioDevice initialized with ID 13.
+[2026.03.12-00.07.01:977][939]LogAudio: Display: Audio Device (ID: 13) registered with world 'Mapa'.
+[2026.03.12-00.07.01:977][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.12-00.07.01:981][939]LogLoad: Game class is 'GameModeBase'
+[2026.03.12-00.07.01:983][939]LogWorld: Bringing World /Game/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2026.03.11-21.07.01
+[2026.03.12-00.07.01:983][939]LogWorld: Bringing up level for play took: 0.001867
+[2026.03.12-00.07.01:986][939]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.03.12-00.07.01:992][939]LogStreaming: Display: FlushAsyncLoading(1382,1381,1380,1379,1378,1377,1376,1375,1374,1373,1372,1371,1370,1369,1368,1367,1366,1365,1364,1363,1362,1361,1360,1359,1358,1357,1356,1355,1354,1353,1352,1351,1350,1349,1348,1347,1346,1345,1344,1343,1342,1341,1340,1339): 44 QueuedPackages, 0 AsyncPackages
+[2026.03.12-00.07.02:166][939]PIE: Servidor conectado
+[2026.03.12-00.07.02:167][939]PIE: Tempo inicial total de reprodução no editor: 0,282 s
+[2026.03.12-00.07.17:317][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.07.17:317][336]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa
+[2026.03.12-00.07.17:327][336]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-00.07.17:328][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.07.17:328][336]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Mapa.Mapa
+[2026.03.12-00.07.17:358][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-00.07.17:367][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.07.17:403][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.07.17:404][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.12-00.07.17:404][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.03.12-00.07.17:407][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.03.12-00.07.17:420][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.12-00.07.17:502][337]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.03.12-00.07.32:979][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.12-00.07.38:497][180]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.03.12-00.07.38:505][180]LogContentBundle: [Mapa(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-00.07.38:505][180]LogWorldPartition: Display: GenerateStreaming for 'Mapa' started...
+[2026.03.12-00.07.38:508][180]MapCheck: Error: O mundo faz referência a um ator carregado espacialmente /Game/Mapa.Cube 
+[2026.03.12-00.07.38:512][180]LogWorldPartition: Display: GenerateStreaming for 'Mapa' took 6.807 ms (total: 104.326 ms)
+[2026.03.12-00.07.38:513][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-00.07.38:513][180]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa
+[2026.03.12-00.07.38:524][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011565s)
+[2026.03.12-00.07.38:524][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa.Mapa to /Game/UEDPIE_0_Mapa.Mapa (0.011612s)
+[2026.03.12-00.07.38:553][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.03.12-00.07.38:556][180]LogChaosDD: Creating Chaos Debug Draw Scene for world Mapa
+[2026.03.12-00.07.38:558][180]LogWorldPartition: ULevel::OnLevelLoaded(Mapa)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-00.07.38:558][180]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-00.07.38:558][180]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Mapa.Mapa, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-00.07.38:558][180]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-00.07.38:566][180]LogWorldPartition: Display: WorldPartition initialize took 8.147 ms (total: 578.645 ms)
+[2026.03.12-00.07.38:566][180]LogPlayLevel: PIE: World Init took: (0.010448s)
+[2026.03.12-00.07.38:567][180]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.03.12-00.07.38:567][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-00.07.38:567][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-00.07.38:567][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-00.07.38:567][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-00.07.38:567][180]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-00.07.38:567][180]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-00.07.38:567][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-00.07.38:567][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-00.07.38:567][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-00.07.38:567][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-00.07.38:567][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-00.07.38:570][180]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-00.07.38:592][180]LogAudioMixer: Display: Using Audio Hardware Device 2 - 22B1WG5 (AMD High Definition Audio Device)
+[2026.03.12-00.07.38:593][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-00.07.38:593][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-00.07.38:593][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-00.07.38:593][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.03.12-00.07.38:593][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.03.12-00.07.38:596][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.03.12-00.07.38:596][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.03.12-00.07.38:596][180]LogInit: FAudioDevice initialized with ID 14.
+[2026.03.12-00.07.38:596][180]LogAudio: Display: Audio Device (ID: 14) registered with world 'Mapa'.
+[2026.03.12-00.07.38:596][180]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.03.12-00.07.38:599][180]LogLoad: Game class is 'GameModeBase'
+[2026.03.12-00.07.38:601][180]LogWorld: Bringing World /Game/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2026.03.11-21.07.38
+[2026.03.12-00.07.38:601][180]LogWorld: Bringing up level for play took: 0.001605
+[2026.03.12-00.07.38:603][180]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.03.12-00.07.38:610][180]LogStreaming: Display: FlushAsyncLoading(1426,1425,1424,1423,1422,1421,1420,1419,1418,1417,1416,1415,1414,1413,1412,1411,1410,1409,1408,1407,1406,1405,1404,1403,1402,1401,1400,1399,1398,1397,1396,1395,1394,1393,1392,1391,1390,1389,1388,1387,1386,1385,1384,1383): 44 QueuedPackages, 0 AsyncPackages
+[2026.03.12-00.07.38:781][180]PIE: Servidor conectado
+[2026.03.12-00.07.38:782][180]PIE: Tempo inicial total de reprodução no editor: 0,277 s
+[2026.03.12-00.07.49:507][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.07.49:507][459]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa
+[2026.03.12-00.07.49:518][459]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-00.07.49:518][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.07.49:518][459]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Mapa.Mapa
+[2026.03.12-00.07.49:537][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-00.07.49:547][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.07.49:584][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.07.49:584][459]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.03.12-00.07.49:584][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.03.12-00.07.49:586][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.03.12-00.07.49:598][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.12-00.07.49:680][460]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.03.12-00.09.44:297][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.09.44:344][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.09.44:386][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.12-00.09.44:395][575]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.09.44:396][575]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa26824D764C2D19AC1A6BC5A2A58F7184.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.09.44:404][575]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.09.44:405][575]LogFileHelpers: Saving map 'Mapa' took 0.062
+[2026.03.12-00.09.44:410][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.109 ms (total: 8.21 sec)
+[2026.03.12-00.09.44:463][575]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.09.44:464][575]LogContentValidation: Enabled validators:
+[2026.03.12-00.09.44:464][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.09.44:464][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.09.44:464][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.09.44:464][575]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.09.44:464][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.09.44:464][575]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.09.44:464][575]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.09.45:048][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.12-00.09.58:212][919]LogEditorTransaction: Undo Adicionar pin
+[2026.03.12-00.09.58:584][927]LogEditorTransaction: Undo Criar Vínculo de Pin
+[2026.03.12-00.10.04:271][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.03.12-00.10.06:000][630]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.03.12-00.10.06:009][630]LogContentBundle: [Mapa(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-00.10.06:009][630]LogWorldPartition: Display: GenerateStreaming for 'Mapa' started...
+[2026.03.12-00.10.06:011][630]MapCheck: Error: O mundo faz referência a um ator carregado espacialmente /Game/Mapa.Cube 
+[2026.03.12-00.10.06:015][630]LogWorldPartition: Display: GenerateStreaming for 'Mapa' took 6.097 ms (total: 110.424 ms)
+[2026.03.12-00.10.06:015][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-00.10.06:015][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa
+[2026.03.12-00.10.06:028][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011962s)
+[2026.03.12-00.10.06:028][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa.Mapa to /Game/UEDPIE_0_Mapa.Mapa (0.012018s)
+[2026.03.12-00.10.06:055][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.03.12-00.10.06:062][630]LogChaosDD: Creating Chaos Debug Draw Scene for world Mapa
+[2026.03.12-00.10.06:064][630]LogWorldPartition: ULevel::OnLevelLoaded(Mapa)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-00.10.06:064][630]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-00.10.06:064][630]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Mapa.Mapa, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-00.10.06:064][630]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-00.10.06:072][630]LogWorldPartition: Display: WorldPartition initialize took 8.249 ms (total: 586.894 ms)
+[2026.03.12-00.10.06:072][630]LogPlayLevel: PIE: World Init took: (0.010800s)
+[2026.03.12-00.10.06:073][630]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.03.12-00.10.06:073][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-00.10.06:073][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-00.10.06:073][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-00.10.06:073][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-00.10.06:073][630]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-00.10.06:073][630]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-00.10.06:073][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-00.10.06:073][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-00.10.06:073][630]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-00.10.06:073][630]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-00.10.06:073][630]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-00.10.06:077][630]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-00.10.06:099][630]LogAudioMixer: Display: Using Audio Hardware Device 2 - 22B1WG5 (AMD High Definition Audio Device)
+[2026.03.12-00.10.06:099][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-00.10.06:099][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-00.10.06:099][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-00.10.06:100][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.03.12-00.10.06:100][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.03.12-00.10.06:103][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.03.12-00.10.06:103][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.03.12-00.10.06:103][630]LogInit: FAudioDevice initialized with ID 15.
+[2026.03.12-00.10.06:103][630]LogAudio: Display: Audio Device (ID: 15) registered with world 'Mapa'.
+[2026.03.12-00.10.06:103][630]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.12-00.10.06:107][630]LogLoad: Game class is 'GameModeBase'
+[2026.03.12-00.10.06:108][630]LogWorld: Bringing World /Game/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2026.03.11-21.10.06
+[2026.03.12-00.10.06:109][630]LogWorld: Bringing up level for play took: 0.001658
+[2026.03.12-00.10.06:111][630]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.03.12-00.10.06:117][630]LogStreaming: Display: FlushAsyncLoading(1470,1469,1468,1467,1466,1465,1464,1463,1462,1461,1460,1459,1458,1457,1456,1455,1454,1453,1452,1451,1450,1449,1448,1447,1446,1445,1444,1443,1442,1441,1440,1439,1438,1437,1436,1435,1434,1433,1432,1431,1430,1429,1428,1427): 44 QueuedPackages, 0 AsyncPackages
+[2026.03.12-00.10.06:293][630]PIE: Servidor conectado
+[2026.03.12-00.10.06:296][630]PIE: Tempo inicial total de reprodução no editor: 0,286 s
+[2026.03.12-00.10.24:197][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.10.24:197][ 84]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa
+[2026.03.12-00.10.24:207][ 84]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-00.10.24:207][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.10.24:207][ 84]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Mapa.Mapa
+[2026.03.12-00.10.24:223][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-00.10.24:231][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.10.24:268][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.10.24:269][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.12-00.10.24:269][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.03.12-00.10.24:271][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.03.12-00.10.24:283][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.12-00.10.24:366][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: ================================================
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Total job queries 11.661, among them cache hits 20 (0.17%), DDC hits 0 (0.00%), Duplicates 2.681 (22.99%)
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Tracking 8.960 distinct input hashes that result in 8.468 distinct outputs (94.51%)
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: RAM used: 6,36 MiB of 1,60 GiB budget. Usage: 0.39%
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Shaders Compiled: 8.960
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Jobs assigned 8.960, completed 8.960 (100%)
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Average time worker was idle: 21.43 s
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Time job spent in pending queue: average 288.40 s, longest 600.98 s
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Job execution time: average 5.69 s, max 131.34 s
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Job life time (pending + execution): average 294.09 s, max 621.86
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Shader code size: average 14,291 KiB, min 1,16 KiB, max 330,166 KiB
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 687.00 s
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.33%
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Jobs were issued in 983 batches (only local compilation was used), average 9.11 jobs/batch
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Average processing rate: 13.04 jobs/sec
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Total thread time: 5.155,084 s
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Total thread preprocess time: 113,414 s
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Percentage time preprocessing: 2.20%
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Effective parallelization: 7.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 23.03 sec, max 77.53 sec, min 1.03 sec)
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 15.75 sec, max 15.75 sec, min 15.75 sec)
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 8.38 sec, max 9.37 sec, min 5.36 sec)
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 7.46 sec, max 7.46 sec, min 7.46 sec)
+[2026.03.12-00.10.43:033][ 31]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 6.17 sec, max 6.17 sec, min 6.17 sec)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.00% of total time (compiled  454 times, average 1.48 sec, max 3.08 sec, min 0.94 sec)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 12.06% of total time (compiled   27 times, average 23.03 sec, max 77.53 sec, min 1.03 sec)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.17% of total time (compiled  260 times, average 2.02 sec, max 6.11 sec, min 0.00 sec)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 6.19% of total time (compiled   68 times, average 4.70 sec, max 11.16 sec, min 1.24 sec)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.05% of total time (compiled  480 times, average 0.54 sec, max 0.95 sec, min 0.22 sec)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: === Material stats ===
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: Materials Translated:    144
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: Material Translation Only: 0.04 s (18%)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: Material Cache Hits: 1 (1%)
+[2026.03.12-00.10.43:034][ 31]LogShaderCompilers: Display: ================================================
+[2026.03.12-00.10.52:915][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.10.53:036][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.10.53:081][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.12-00.10.53:090][814]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.10.53:090][814]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa0798F7B04A680DE60DFA1E93EEDCA7A0.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.10.53:099][814]LogFileHelpers: Saving map 'Mapa' took 0.064
+[2026.03.12-00.10.53:106][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.255 ms (total: 8.40 sec)
+[2026.03.12-00.10.53:141][814]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.10.53:141][814]LogContentValidation: Enabled validators:
+[2026.03.12-00.10.53:141][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.10.53:141][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.10.53:141][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.10.53:141][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.10.53:141][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.10.53:141][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.10.53:141][814]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.11.42:138][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4766.147461
+[2026.03.12-00.11.42:345][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-00.11.42:345][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4766.344727, Update Interval: 357.106842
+[2026.03.12-00.11.44:275][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.11.44:322][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.11.44:366][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.12-00.11.44:376][498]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.11.44:376][498]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa444E51144171750CB9CCFBA0B31C72EB.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.11.44:386][498]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.11.44:386][498]LogFileHelpers: Saving map 'Mapa' took 0.065
+[2026.03.12-00.11.44:392][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.630 ms (total: 8.52 sec)
+[2026.03.12-00.11.44:441][498]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.11.44:441][498]LogContentValidation: Enabled validators:
+[2026.03.12-00.11.44:441][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.11.44:441][498]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.11.44:441][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.11.44:441][498]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.11.44:441][498]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.11.44:441][498]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.11.44:442][498]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.11.51:303][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.11.51:350][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.11.51:395][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.12-00.11.51:403][315]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.11.51:403][315]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa5CCDC2E94E3E20AC4770AC9845B87BA7.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.11.51:412][315]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.11.51:412][315]LogFileHelpers: Saving map 'Mapa' took 0.063
+[2026.03.12-00.11.51:419][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.067 ms (total: 8.64 sec)
+[2026.03.12-00.11.51:469][315]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.11.51:469][315]LogContentValidation: Enabled validators:
+[2026.03.12-00.11.51:469][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.11.51:469][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.11.51:469][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.11.51:469][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.11.51:469][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.11.51:469][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.11.51:469][315]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.11.54:206][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.12-00.11.56:647][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.11.56:698][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.11.56:745][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.12-00.11.56:754][767]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.11.56:754][767]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa93EB7BFD41CC2DC5743DA098AB6E70C3.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.11.56:762][767]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.11.56:763][767]LogFileHelpers: Saving map 'Mapa' took 0.066
+[2026.03.12-00.11.56:770][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.973 ms (total: 8.76 sec)
+[2026.03.12-00.11.56:819][767]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.11.56:819][767]LogContentValidation: Enabled validators:
+[2026.03.12-00.11.56:819][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.11.56:819][767]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.11.56:819][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.11.56:819][767]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.11.56:819][767]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.11.56:819][767]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.11.56:819][767]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.11.58:725][865]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.03.12-00.11.58:735][865]LogContentBundle: [Mapa(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-00.11.58:735][865]LogWorldPartition: Display: GenerateStreaming for 'Mapa' started...
+[2026.03.12-00.11.58:737][865]MapCheck: Error: O mundo faz referência a um ator carregado espacialmente /Game/Mapa.Cube 
+[2026.03.12-00.11.58:743][865]LogWorldPartition: Display: GenerateStreaming for 'Mapa' took 6.963 ms (total: 117.388 ms)
+[2026.03.12-00.11.58:743][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-00.11.58:743][865]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa
+[2026.03.12-00.11.58:756][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012847s)
+[2026.03.12-00.11.58:756][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa.Mapa to /Game/UEDPIE_0_Mapa.Mapa (0.012894s)
+[2026.03.12-00.11.58:785][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.03.12-00.11.58:787][865]LogChaosDD: Creating Chaos Debug Draw Scene for world Mapa
+[2026.03.12-00.11.58:790][865]LogWorldPartition: ULevel::OnLevelLoaded(Mapa)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-00.11.58:791][865]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-00.11.58:791][865]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Mapa.Mapa, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-00.11.58:791][865]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-00.11.58:802][865]LogWorldPartition: Display: WorldPartition initialize took 12.091 ms (total: 598.986 ms)
+[2026.03.12-00.11.58:802][865]LogPlayLevel: PIE: World Init took: (0.015414s)
+[2026.03.12-00.11.58:803][865]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.03.12-00.11.58:803][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-00.11.58:803][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-00.11.58:803][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-00.11.58:803][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-00.11.58:803][865]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-00.11.58:803][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-00.11.58:803][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-00.11.58:803][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-00.11.58:803][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-00.11.58:803][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-00.11.58:803][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-00.11.58:807][865]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-00.11.58:829][865]LogAudioMixer: Display: Using Audio Hardware Device 2 - 22B1WG5 (AMD High Definition Audio Device)
+[2026.03.12-00.11.58:830][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-00.11.58:830][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-00.11.58:830][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-00.11.58:830][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.03.12-00.11.58:830][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.03.12-00.11.58:832][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.03.12-00.11.58:832][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.03.12-00.11.58:832][865]LogInit: FAudioDevice initialized with ID 16.
+[2026.03.12-00.11.58:832][865]LogAudio: Display: Audio Device (ID: 16) registered with world 'Mapa'.
+[2026.03.12-00.11.58:832][865]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.12-00.11.58:836][865]LogLoad: Game class is 'GameModeBase'
+[2026.03.12-00.11.58:838][865]LogWorld: Bringing World /Game/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2026.03.11-21.11.58
+[2026.03.12-00.11.58:838][865]LogWorld: Bringing up level for play took: 0.001840
+[2026.03.12-00.11.58:841][865]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.03.12-00.11.58:846][865]LogStreaming: Display: FlushAsyncLoading(1514,1513,1512,1511,1510,1509,1508,1507,1506,1505,1504,1503,1502,1501,1500,1499,1498,1497,1496,1495,1494,1493,1492,1491,1490,1489,1488,1487,1486,1485,1484,1483,1482,1481,1480,1479,1478,1477,1476,1475,1474,1473,1472,1471): 44 QueuedPackages, 0 AsyncPackages
+[2026.03.12-00.11.59:027][865]PIE: Servidor conectado
+[2026.03.12-00.11.59:028][865]PIE: Tempo inicial total de reprodução no editor: 0,293 s
+[2026.03.12-00.12.19:457][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.12.19:457][385]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa
+[2026.03.12-00.12.19:469][385]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-00.12.19:470][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.12.19:470][385]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Mapa.Mapa
+[2026.03.12-00.12.19:504][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-00.12.19:515][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.12.19:551][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.12.19:551][385]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.12-00.12.19:552][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.03.12-00.12.19:553][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.03.12-00.12.19:565][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.03.12-00.12.19:648][386]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.03.12-00.12.33:320][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.12.33:366][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.12.33:410][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.12-00.12.33:420][680]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.12.33:421][680]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa67BDE5FE45A9EBBB1C39A897D74E00AB.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.12.33:429][680]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.12.33:429][680]LogFileHelpers: Saving map 'Mapa' took 0.065
+[2026.03.12-00.12.33:436][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.668 ms (total: 8.88 sec)
+[2026.03.12-00.12.33:485][680]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.12.33:485][680]LogContentValidation: Enabled validators:
+[2026.03.12-00.12.33:485][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.12.33:485][680]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.12.33:485][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.12.33:485][680]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.12.33:485][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.12.33:485][680]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.12.33:485][680]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.12.46:157][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.12.46:211][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.12.46:255][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.03.12-00.12.46:262][200]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.12.46:263][200]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/MapaAE80D48F4CBC65461EBBA4B72A3187DB.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.12.46:272][200]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.12.46:273][200]LogFileHelpers: Saving map 'Mapa' took 0.063
+[2026.03.12-00.12.46:278][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.731 ms (total: 9.00 sec)
+[2026.03.12-00.12.46:330][200]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.12.46:330][200]LogContentValidation: Enabled validators:
+[2026.03.12-00.12.46:330][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.12.46:330][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.12.46:330][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.12.46:330][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.12.46:330][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.12.46:330][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.12.46:330][200]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.12.47:743][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.12.47:797][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.12.47:837][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.03.12-00.12.47:846][369]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.12.47:846][369]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/MapaA7C84CFF4C0260A349B6189241B9C98A.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.12.47:854][369]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.12.47:855][369]LogFileHelpers: Saving map 'Mapa' took 0.058
+[2026.03.12-00.12.47:861][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.831 ms (total: 9.12 sec)
+[2026.03.12-00.12.47:903][369]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.12.47:903][369]LogContentValidation: Enabled validators:
+[2026.03.12-00.12.47:903][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.12.47:903][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.12.47:903][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.12.47:903][369]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.12.47:903][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.12.47:903][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.12.47:905][369]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.12.49:671][481]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.03.12-00.12.49:680][481]LogContentBundle: [Mapa(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-00.12.49:680][481]LogWorldPartition: Display: GenerateStreaming for 'Mapa' started...
+[2026.03.12-00.12.49:683][481]MapCheck: Error: O mundo faz referência a um ator carregado espacialmente /Game/Mapa.Cube 
+[2026.03.12-00.12.49:687][481]LogWorldPartition: Display: GenerateStreaming for 'Mapa' took 6.951 ms (total: 124.339 ms)
+[2026.03.12-00.12.49:687][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-00.12.49:687][481]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa
+[2026.03.12-00.12.49:700][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011634s)
+[2026.03.12-00.12.49:700][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa.Mapa to /Game/UEDPIE_0_Mapa.Mapa (0.011676s)
+[2026.03.12-00.12.49:727][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.03.12-00.12.49:730][481]LogChaosDD: Creating Chaos Debug Draw Scene for world Mapa
+[2026.03.12-00.12.49:733][481]LogWorldPartition: ULevel::OnLevelLoaded(Mapa)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-00.12.49:733][481]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-00.12.49:733][481]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Mapa.Mapa, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-00.12.49:733][481]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-00.12.49:740][481]LogWorldPartition: Display: WorldPartition initialize took 8.635 ms (total: 607.622 ms)
+[2026.03.12-00.12.49:740][481]LogPlayLevel: PIE: World Init took: (0.011178s)
+[2026.03.12-00.12.49:742][481]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.03.12-00.12.49:742][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-00.12.49:742][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-00.12.49:742][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-00.12.49:742][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-00.12.49:742][481]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-00.12.49:742][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-00.12.49:742][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-00.12.49:742][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-00.12.49:742][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-00.12.49:742][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-00.12.49:742][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-00.12.49:745][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-00.12.49:767][481]LogAudioMixer: Display: Using Audio Hardware Device 2 - 22B1WG5 (AMD High Definition Audio Device)
+[2026.03.12-00.12.49:768][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-00.12.49:768][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-00.12.49:768][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-00.12.49:768][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.03.12-00.12.49:768][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.03.12-00.12.49:771][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.03.12-00.12.49:771][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.03.12-00.12.49:771][481]LogInit: FAudioDevice initialized with ID 17.
+[2026.03.12-00.12.49:771][481]LogAudio: Display: Audio Device (ID: 17) registered with world 'Mapa'.
+[2026.03.12-00.12.49:771][481]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.12-00.12.49:774][481]LogLoad: Game class is 'GameModeBase'
+[2026.03.12-00.12.49:776][481]LogWorld: Bringing World /Game/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2026.03.11-21.12.49
+[2026.03.12-00.12.49:776][481]LogWorld: Bringing up level for play took: 0.001696
+[2026.03.12-00.12.49:778][481]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.03.12-00.12.49:784][481]LogStreaming: Display: FlushAsyncLoading(1558,1557,1556,1555,1554,1553,1552,1551,1550,1549,1548,1547,1546,1545,1544,1543,1542,1541,1540,1539,1538,1537,1536,1535,1534,1533,1532,1531,1530,1529,1528,1527,1526,1525,1524,1523,1522,1521,1520,1519,1518,1517,1516,1515): 44 QueuedPackages, 0 AsyncPackages
+[2026.03.12-00.12.49:956][481]PIE: Servidor conectado
+[2026.03.12-00.12.49:957][481]PIE: Tempo inicial total de reprodução no editor: 0,277 s
+[2026.03.12-00.13.19:336][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.13.19:337][246]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa
+[2026.03.12-00.13.19:348][246]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-00.13.19:348][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.13.19:348][246]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Mapa.Mapa
+[2026.03.12-00.13.19:375][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-00.13.19:383][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.13.19:420][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.13.19:421][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.12-00.13.19:421][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.03.12-00.13.19:422][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.03.12-00.13.19:435][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.12-00.13.19:520][247]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.03.12-00.13.27:245][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-00.13.27:292][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa" FILE="C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.12-00.13.27:333][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.12-00.13.27:344][ 24]LogSavePackage: Moving output files for package: /Game/Mapa
+[2026.03.12-00.13.27:344][ 24]LogSavePackage: Moving 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Saved/Mapa039908AF449C0639174940AA0ABD4AE1.tmp' to 'C:/Users/AMD2/Documents/Repositorio_TechVerde/TechVerde/TechVerde_Version1/Content/Mapa.umap'
+[2026.03.12-00.13.27:352][ 24]LogFileHelpers: Todos os arquivos já estão salvos.
+[2026.03.12-00.13.27:353][ 24]LogFileHelpers: Saving map 'Mapa' took 0.063
+[2026.03.12-00.13.27:359][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.125 ms (total: 9.23 sec)
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: Enabled validators:
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-00.13.27:411][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-00.13.27:411][ 24]AssetCheck: /Game/Mapa Validando ativo
+[2026.03.12-00.13.28:328][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.12-00.13.29:817][188]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.03.12-00.13.29:826][188]LogContentBundle: [Mapa(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2026.03.12-00.13.29:826][188]LogWorldPartition: Display: GenerateStreaming for 'Mapa' started...
+[2026.03.12-00.13.29:826][188]MapCheck: Error: O mundo faz referência a um ator carregado espacialmente /Game/Mapa.Cube 
+[2026.03.12-00.13.29:832][188]LogWorldPartition: Display: GenerateStreaming for 'Mapa' took 6.111 ms (total: 130.451 ms)
+[2026.03.12-00.13.29:832][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-00.13.29:832][188]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa
+[2026.03.12-00.13.29:843][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011636s)
+[2026.03.12-00.13.29:843][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa.Mapa to /Game/UEDPIE_0_Mapa.Mapa (0.011684s)
+[2026.03.12-00.13.29:872][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.12-00.13.29:875][188]LogChaosDD: Creating Chaos Debug Draw Scene for world Mapa
+[2026.03.12-00.13.29:877][188]LogWorldPartition: ULevel::OnLevelLoaded(Mapa)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.12-00.13.29:877][188]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.12-00.13.29:878][188]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Mapa.Mapa, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.12-00.13.29:878][188]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.12-00.13.29:886][188]LogWorldPartition: Display: WorldPartition initialize took 8.810 ms (total: 616.432 ms)
+[2026.03.12-00.13.29:887][188]LogPlayLevel: PIE: World Init took: (0.011829s)
+[2026.03.12-00.13.29:888][188]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.03.12-00.13.29:888][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-00.13.29:888][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-00.13.29:888][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-00.13.29:888][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-00.13.29:888][188]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-00.13.29:888][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-00.13.29:888][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-00.13.29:888][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-00.13.29:888][188]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-00.13.29:888][188]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-00.13.29:888][188]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-00.13.29:891][188]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-00.13.29:913][188]LogAudioMixer: Display: Using Audio Hardware Device 2 - 22B1WG5 (AMD High Definition Audio Device)
+[2026.03.12-00.13.29:913][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-00.13.29:913][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-00.13.29:913][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-00.13.29:914][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.03.12-00.13.29:914][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.03.12-00.13.29:915][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.03.12-00.13.29:915][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.03.12-00.13.29:915][188]LogInit: FAudioDevice initialized with ID 18.
+[2026.03.12-00.13.29:916][188]LogAudio: Display: Audio Device (ID: 18) registered with world 'Mapa'.
+[2026.03.12-00.13.29:916][188]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.12-00.13.29:919][188]LogLoad: Game class is 'GameModeBase'
+[2026.03.12-00.13.29:920][188]LogWorld: Bringing World /Game/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2026.03.11-21.13.29
+[2026.03.12-00.13.29:921][188]LogWorld: Bringing up level for play took: 0.001630
+[2026.03.12-00.13.29:923][188]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.03.12-00.13.29:930][188]LogStreaming: Display: FlushAsyncLoading(1602,1601,1600,1599,1598,1597,1596,1595,1594,1593,1592,1591,1590,1589,1588,1587,1586,1585,1584,1583,1582,1581,1580,1579,1578,1577,1576,1575,1574,1573,1572,1571,1570,1569,1568,1567,1566,1565,1564,1563,1562,1561,1560,1559): 44 QueuedPackages, 0 AsyncPackages
+[2026.03.12-00.13.30:103][188]PIE: Servidor conectado
+[2026.03.12-00.13.30:106][188]PIE: Tempo inicial total de reprodução no editor: 0,28 s
+[2026.03.12-00.13.47:546][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.13.47:546][633]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa
+[2026.03.12-00.13.47:556][633]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-00.13.47:557][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.13.47:557][633]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Mapa.Mapa
+[2026.03.12-00.13.47:574][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-00.13.47:582][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-00.13.47:619][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-00.13.47:620][633]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.12-00.13.47:620][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.03.12-00.13.47:622][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.03.12-00.13.47:636][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.12-00.13.47:719][634]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.03.12-00.18.30:522][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5174.522949
+[2026.03.12-00.18.31:271][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-00.18.31:272][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5174.940430, Update Interval: 340.505981
