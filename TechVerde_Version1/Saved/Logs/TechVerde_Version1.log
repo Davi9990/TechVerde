@@ -1403,3 +1403,12 @@ FPackageName: Skipped package /Game/Assets/Cenario/Construcoes/StationSolar/Cube
 [2026.04.23-10.35.44:958][149]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.04.23-10.35.44:958][149]LogShaderCompilers: Display: Material Cache Hits: 11 (7%)
 [2026.04.23-10.35.44:958][149]LogShaderCompilers: Display: ================================================
+[2026.04.23-10.39.16:991][785]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node BD9DD8164973A620E2C0539DDEA3FF38 (10.31.6.70:50244)
+[2026.04.23-10.43.38:118][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.23-10.43.38:135][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa] ([2] browsable assets)...
+[2026.04.23-10.43.38:135][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa]
+[2026.04.23-10.43.38:213][568]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mapa_Auto1
+[2026.04.23-10.43.38:213][568]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/Mapa_Auto16C97086B430025C7FCED1F9F6EEE154F.tmp' to '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/Autosaves/Game/Mapa_Auto1.umap'
+[2026.04.23-10.43.38:223][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapa' took 0.124
+[2026.04.23-10.43.38:223][568]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.124
+[2026.04.23-10.50.01:459][771]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node BD9DD8164973A620E2C0539DDEA3FF38 (10.31.6.70:50244)
