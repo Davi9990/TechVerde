@@ -8890,3 +8890,31 @@ Make sure '/Game/BluePrints/Dinheiro_Estações/BP_AnimalStation.BP_AnimalStatio
 [2026.05.10-12.12.00:924][161]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77, StreamState=2
 [2026.05.10-12.12.00:936][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
 [2026.05.10-12.12.01:025][162]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2026.05.10-12.16.15:167][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.05.10-12.16.25:017][692]LogSlate: Window 'Save Content' being destroyed
+[2026.05.10-12.16.25:035][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.10-12.16.25:096][692]LogFileHelpers: Saving Package: /Game/BluePrints/Dinheiro_Estações/BP_AnimalStation
+[2026.05.10-12.16.25:097][692]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Dinheiro_Estações/BP_AnimalStation] ([2] browsable assets)...
+[2026.05.10-12.16.25:538][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Dinheiro_Estações/BP_AnimalStation.BP_AnimalStation]
+[2026.05.10-12.16.25:538][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Dinheiro_Estações/BP_AnimalStation]
+[2026.05.10-12.16.25:585][692]LogSavePackage: Moving output files for package: /Game/BluePrints/Dinheiro_Estações/BP_AnimalStation
+[2026.05.10-12.16.25:586][692]LogSavePackage: Moving '../../../../../../Unreal/TechVerde/TechVerde_Version1/Saved/BP_AnimalStationE4E836D743AB77F8DA102D9CB0087510.tmp' to '../../../../../../Unreal/TechVerde/TechVerde_Version1/Content/BluePrints/Dinheiro_Estações/BP_AnimalStation.uasset'
+[2026.05.10-12.16.25:589][692]LogFileHelpers: Saving Package: /Game/__ExternalActors__/Mapa1/F/3K/CKCXEW87XSEUTU4GWL60ZC
+[2026.05.10-12.16.25:595][692]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Mapa1/F/3K/CKCXEW87XSEUTU4GWL60ZC
+[2026.05.10-12.16.25:596][692]LogSavePackage: Moving '../../../../../../Unreal/TechVerde/TechVerde_Version1/Saved/CKCXEW87XSEUTU4GWL60ZC2D4A1B62440A1F2B951491893E98066F.tmp' to '../../../../../../Unreal/TechVerde/TechVerde_Version1/Content/__ExternalActors__/Mapa1/F/3K/CKCXEW87XSEUTU4GWL60ZC.uasset'
+[2026.05.10-12.16.25:619][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 583.790 ms (total: 1.72 sec)
+[2026.05.10-12.16.25:697][692]LogContentValidation: Enabled validators:
+[2026.05.10-12.16.25:697][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.10-12.16.25:697][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.10-12.16.25:698][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.10-12.16.25:698][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.10-12.16.25:698][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.10-12.16.25:698][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.10-12.16.25:698][692]LogContentValidation: Display: Starting to validate 2 assets (1 associated objects such as actors)
+[2026.05.10-12.16.25:698][692]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.10-12.16.25:698][692]AssetCheck: /Game/BluePrints/Dinheiro_Estações/BP_AnimalStation Validating asset
+[2026.05.10-12.16.25:698][692]AssetCheck: /Game/Mapa1 Validating asset
+[2026.05.10-12.16.25:698][692]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.10-12.16.25:699][692]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.05.10-12.16.25:733][692]LogAutomationController: Ignoring very large delta of 10.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.10-12.16.25:737][692]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal/TechVerde/TechVerde_Version1/Saved/SourceControl/UncontrolledChangelists.json
