@@ -6837,3 +6837,186 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.25-13.20.18:729][422]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
 [2026.05.25-13.20.18:744][422]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/SourceControl/UncontrolledChangelists.json
 [2026.05.25-13.21.22:198][688]LogDerivedDataCache: C:/Users/ALUNO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.25-13.21.37:662][734]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 4A2AC5F1450628BC7AB962954DAF7790 (10.31.6.70:58138)
+[2026.05.25-13.21.46:530][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.25-13.21.47:858][820]LogSlate: Window 'Save Content' being destroyed
+[2026.05.25-13.21.47:878][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-13.21.47:927][820]LogFileHelpers: Saving Package: /Game/BluePrints/NPC/BP_Contratacao
+[2026.05.25-13.21.47:927][820]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/NPC/BP_Contratacao] ([3] browsable assets)...
+[2026.05.25-13.21.47:927][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/NPC/BP_Contratacao]
+[2026.05.25-13.21.47:945][820]LogSavePackage: Moving output files for package: /Game/BluePrints/NPC/BP_Contratacao
+[2026.05.25-13.21.47:946][820]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/BP_ContratacaoCCDFD63E4F1C6ADBAD5B2895D65D8407.tmp' to '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/BluePrints/NPC/BP_Contratacao.uasset'
+[2026.05.25-13.21.47:954][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.066 ms (total: 1.82 sec)
+[2026.05.25-13.21.48:134][820]LogStall: Shutdown...
+[2026.05.25-13.21.48:141][820]LogStall: Shutdown complete.
+[2026.05.25-13.21.48:207][820]LogText3D: BP_FarmTile0 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.48:244][820]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:244][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.48:334][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.25-13.21.48:334][820]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:335][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.48:441][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.25-13.21.48:441][820]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:441][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.48:536][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.25-13.21.48:536][820]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:536][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.48:635][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.25-13.21.48:635][820]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:635][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.48:725][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.25-13.21.48:725][820]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:725][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.48:818][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.25-13.21.48:818][820]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:818][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.48:907][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.25-13.21.48:907][820]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.48:907][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:018][820]LogSlate: Window 'Message Log' being destroyed
+[2026.05.25-13.21.49:022][820]LogSlate: Window 'TechVerde_Version1 - Unreal Editor' being destroyed
+[2026.05.25-13.21.49:232][820]LogContentValidation: Enabled validators:
+[2026.05.25-13.21.49:232][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-13.21.49:232][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-13.21.49:232][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-13.21.49:232][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-13.21.49:232][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-13.21.49:232][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-13.21.49:232][820]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.05.25-13.21.49:233][820]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.25-13.21.49:233][820]AssetCheck: /Game/BluePrints/NPC/BP_Contratacao Validating asset
+[2026.05.25-13.21.49:233][820]AssetCheck: /Game/BluePrints/NPC/BP_Contratacao Validating asset
+[2026.05.25-13.21.49:233][820]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.25-13.21.49:233][820]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.05.25-13.21.49:304][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.05.25-13.21.49:338][820]Cmd: QUIT_EDITOR
+[2026.05.25-13.21.49:338][820]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.25-13.21.49:339][820]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.25-13.21.49:357][821]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.25-13.21.49:357][821]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.25-13.21.49:357][821]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.25-13.21.49:370][821]LogWorld: UWorld::CleanupWorld for Mapa1, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:370][821]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-13.21.49:370][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:370][821]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Mapa1.Mapa1
+[2026.05.25-13.21.49:404][821]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.25-13.21.49:404][821]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.25-13.21.49:412][821]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:413][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:415][821]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:416][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:418][821]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:418][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:421][821]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:421][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:424][821]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:424][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:426][821]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:427][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:429][821]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:429][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:431][821]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:431][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:434][821]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:434][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:437][821]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:437][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:440][821]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:440][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:441][821]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:443][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:445][821]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:445][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:447][821]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-13.21.49:447][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-13.21.49:450][821]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.25-13.21.49:464][821]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.25-13.21.49:953][821]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.25-13.21.49:953][821]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.25-13.21.49:953][821]LogAudio: Display: Audio Device unregistered from world 'Mapa1'.
+[2026.05.25-13.21.49:953][821]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.25-13.21.49:953][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.25-13.21.49:955][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.25-13.21.49:960][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.25-13.21.49:960][821]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.25-13.21.49:966][821]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.25-13.21.49:966][821]LogExit: Preparing to exit.
+[2026.05.25-13.21.49:988][821]LogText3D: BP_FarmTile7 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.49:997][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/IKRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:002][821]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.25-13.21.50:277][821]LogEditorDataStorage: Deinitializing
+[2026.05.25-13.21.50:288][821]LogText3D: BP_SolarStation3 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:289][821]LogText3D: BP_SolarStation3 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:295][821]LogText3D: BP_SolarStation4 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:295][821]LogText3D: BP_SolarStation4 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:308][821]LogText3D: BP_AnimalStation2 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:308][821]LogText3D: BP_AnimalStation2 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:308][821]LogText3D: BP_AnimalStation2 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:308][821]LogText3D: BP_AnimalStation3 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:309][821]LogText3D: BP_AnimalStation3 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:309][821]LogText3D: BP_AnimalStation3 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:309][821]LogText3D: BP_AnimalStation : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:309][821]LogText3D: BP_AnimalStation : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:309][821]LogText3D: BP_AnimalStation : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:309][821]LogText3D: BP_Desbloqueio : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:309][821]LogText3D: BP_Desbloqueio2 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:351][821]LogText3D: BP_SolarStation : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:351][821]LogText3D: BP_SolarStation : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:351][821]LogText3D: BP_SolarStation2 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:351][821]LogText3D: BP_SolarStation2 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:353][821]LogText3D: BP_Hiring2 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:353][821]LogText3D: BP_Hiring3 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:353][821]LogText3D: BP_Hiring : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:353][821]LogText3D: BP_FarmTile8 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:353][821]LogText3D: BP_FarmTile9 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile6 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile14 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile13 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile5 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile4 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile7 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile12 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile15 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:354][821]LogText3D: BP_FarmTile16 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.25-13.21.50:355][821]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.25-13.21.50:375][821]LogExit: Editor shut down
+[2026.05.25-13.21.50:379][821]LogExit: Transaction tracking system shut down
+[2026.05.25-13.21.50:638][821]LogExit: Object subsystem successfully closed.
+[2026.05.25-13.21.50:655][821]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.25-13.21.50:985][821]LogMemoryProfiler: Shutdown
+[2026.05.25-13.21.50:985][821]LogNetworkingProfiler: Shutdown
+[2026.05.25-13.21.50:985][821]LoadingProfiler: Shutdown
+[2026.05.25-13.21.50:985][821]LogTimingProfiler: Shutdown
+[2026.05.25-13.21.50:985][821]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.25-13.21.50:985][821]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.25-13.21.51:102][821]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/en-US/get-started-with-unreal-engine.
+[2026.05.25-13.21.51:369][821]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.25-13.21.51:375][821]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.25-13.21.51:375][821]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE4A4301-4BD6-88C7-85DD-EE80C068F378%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.1-48512491%2B%2B%2BUE5%2BRelease-5.7&UserID=fe31e148430f55e68b1861a79350bd5a%7C03e8fabfee8045f6b092f0cb39683627%7C0a26e0ec-694c-480c-9dc6-e057bd539da2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.25-13.21.51:382][821]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.25-13.21.51:382][821]RenderDocPlugin: plugin has been unloaded.
+[2026.05.25-13.21.51:384][821]LogPakFile: Destroying PakPlatformFile
+[2026.05.25-13.21.51:686][821]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.25-13.21.51:706][821]LogExit: Exiting.
+[2026.05.25-13.21.51:738][821]Log file closed, 05/25/26 10:21:51
