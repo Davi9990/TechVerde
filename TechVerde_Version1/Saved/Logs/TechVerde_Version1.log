@@ -3022,3 +3022,43 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.27-11.24.08:832][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Plants/Wheel/BP_WheatLoser_Auto1
 [2026.05.27-11.24.08:832][127]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/BP_WheatLoser_Auto1435280044AB3EAFAE20269BD34018FF6.tmp' to '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/Autosaves/Game/BluePrints/Plants/Wheel/BP_WheatLoser_Auto1.uasset'
 [2026.05.27-11.24.08:833][127]LogFileHelpers: Auto-saving content packages took 0.242
+[2026.05.27-11.25.35:734][674]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-11.25.35:734][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-11.25.35:821][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.27-11.25.38:827][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.27-11.25.39:637][979]LogSlate: Window 'Save Content' being destroyed
+[2026.05.27-11.25.39:649][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-11.25.39:690][979]LogFileHelpers: Saving Map: /Game/Mapa1
+[2026.05.27-11.25.39:690][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa1] ([2] browsable assets)...
+[2026.05.27-11.25.39:690][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa1]
+[2026.05.27-11.25.39:690][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapa1" FILE="../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Content/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.27-11.25.39:777][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.27-11.25.39:794][979]LogSavePackage: Moving output files for package: /Game/Mapa1
+[2026.05.27-11.25.39:794][979]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/Mapa1DC5B20744FCD12DA264D8AA353ABF64E.tmp' to '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Content/Mapa1.umap'
+[2026.05.27-11.25.39:828][979]LogFileHelpers: Saving Package: /Game/BluePrints/Fznd/BP_Fznd
+[2026.05.27-11.25.39:828][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Fznd/BP_Fznd] ([2] browsable assets)...
+[2026.05.27-11.25.39:828][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Fznd/BP_Fznd]
+[2026.05.27-11.25.39:828][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Fznd/BP_Fznd" FILE="../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Content/BluePrints/Fznd/BP_Fznd.uasset" SILENT=true
+[2026.05.27-11.25.39:866][979]LogSavePackage: Moving output files for package: /Game/BluePrints/Fznd/BP_Fznd
+[2026.05.27-11.25.39:867][979]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/BP_FzndFCEF47CD44869C3AC82FDA8224331E39.tmp' to '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Content/BluePrints/Fznd/BP_Fznd.uasset'
+[2026.05.27-11.25.39:867][979]LogFileHelpers: Saving Package: /Game/BluePrints/Plants/Wheel/BP_WheatLoser
+[2026.05.27-11.25.39:868][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Plants/Wheel/BP_WheatLoser] ([2] browsable assets)...
+[2026.05.27-11.25.39:868][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Plants/Wheel/BP_WheatLoser]
+[2026.05.27-11.25.39:878][979]LogSavePackage: Moving output files for package: /Game/BluePrints/Plants/Wheel/BP_WheatLoser
+[2026.05.27-11.25.39:878][979]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/BP_WheatLoser1EA543AB46409419C7721298ABDF7D86.tmp' to '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Content/BluePrints/Plants/Wheel/BP_WheatLoser.uasset'
+[2026.05.27-11.25.39:888][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.837 ms (total: 738.417 ms)
+[2026.05.27-11.25.39:956][979]LogContentValidation: Enabled validators:
+[2026.05.27-11.25.39:956][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-11.25.39:956][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-11.25.39:956][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-11.25.39:956][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-11.25.39:956][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-11.25.39:956][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-11.25.39:956][979]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.05.27-11.25.39:956][979]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.27-11.25.39:957][979]AssetCheck: /Game/Mapa1 Validating asset
+[2026.05.27-11.25.39:957][979]AssetCheck: /Game/BluePrints/Fznd/BP_Fznd Validating asset
+[2026.05.27-11.25.39:957][979]AssetCheck: /Game/BluePrints/Plants/Wheel/BP_WheatLoser Validating asset
+[2026.05.27-11.25.39:957][979]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.27-11.25.39:957][979]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.05.27-11.25.39:978][979]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/SourceControl/UncontrolledChangelists.json
