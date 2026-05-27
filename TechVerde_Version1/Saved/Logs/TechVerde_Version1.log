@@ -3062,3 +3062,13 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.27-11.25.39:957][979]LogContentValidation: Validated asset counts for 1 validators:
 [2026.05.27-11.25.39:957][979]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
 [2026.05.27-11.25.39:978][979]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.27-11.26.49:530][913]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-11.26.49:530][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-11.26.49:625][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.05.27-11.32.44:058][374]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.05.27-11.32.44:058][374]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.05.27-11.35.38:993][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.05.27-11.35.39:005][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Mapa1/0/MW/HDY2I7DFMCSG6SBGW9KR44_Auto2
+[2026.05.27-11.35.39:005][923]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/HDY2I7DFMCSG6SBGW9KR44_Auto206D9288A4A0E495DC7C816842F34E1B8.tmp' to '../../../../../../Users/ALUNO/Documents/Unreal Projects/TechVerde/TechVerde_Version1/Saved/Autosaves/Game/__ExternalActors__/Mapa1/0/MW/HDY2I7DFMCSG6SBGW9KR44_Auto2.uasset'
+[2026.05.27-11.35.39:006][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapa1' took 0.042
+[2026.05.27-11.35.39:006][923]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
