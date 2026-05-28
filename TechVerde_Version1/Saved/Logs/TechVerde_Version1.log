@@ -5199,3 +5199,143 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.28-15.21.35:894][281]LogPlayLevel: Display: Destroying online subsystem :Context_28
 [2026.05.28-15.21.55:566][727]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node AB92FC0D47F28E8BDB132BA0F11A5F2A (10.31.6.60:60514)
 [2026.05.28-15.21.55:566][727]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 8CD0C51846EB1D2219D9449DA1900896 (10.31.6.95:61306)
+[2026.05.28-15.22.22:968][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.05.28-15.22.26:452][862]LogSlate: Window 'Save Content' being destroyed
+[2026.05.28-15.22.26:495][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.28-15.22.26:544][862]LogFileHelpers: Saving Package: /Game/MiniMap/Cenoura
+[2026.05.28-15.22.26:544][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MiniMap/Cenoura] ([1] browsable assets)...
+[2026.05.28-15.22.26:544][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniMap/Cenoura]
+[2026.05.28-15.22.26:544][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniMap/Cenoura" FILE="../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Cenoura.uasset" SILENT=true
+[2026.05.28-15.22.26:552][862]LogSavePackage: Moving output files for package: /Game/MiniMap/Cenoura
+[2026.05.28-15.22.26:552][862]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/Cenoura222EEEA34FCDC5A3908B5E8F585A4BEA.tmp' to '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Cenoura.uasset'
+[2026.05.28-15.22.26:555][862]LogFileHelpers: Saving Package: /Game/MiniMap/Milho
+[2026.05.28-15.22.26:555][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MiniMap/Milho] ([1] browsable assets)...
+[2026.05.28-15.22.26:555][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniMap/Milho]
+[2026.05.28-15.22.26:555][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniMap/Milho" FILE="../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Milho.uasset" SILENT=true
+[2026.05.28-15.22.26:561][862]LogSavePackage: Moving output files for package: /Game/MiniMap/Milho
+[2026.05.28-15.22.26:561][862]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/Milho8152E95C464F163018E0E58F2012074F.tmp' to '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Milho.uasset'
+[2026.05.28-15.22.26:562][862]LogFileHelpers: Saving Package: /Game/MiniMap/Tomate
+[2026.05.28-15.22.26:562][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MiniMap/Tomate] ([1] browsable assets)...
+[2026.05.28-15.22.26:562][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniMap/Tomate]
+[2026.05.28-15.22.26:563][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniMap/Tomate" FILE="../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Tomate.uasset" SILENT=true
+[2026.05.28-15.22.26:569][862]LogSavePackage: Moving output files for package: /Game/MiniMap/Tomate
+[2026.05.28-15.22.26:569][862]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/Tomate76E60B8D4890F95C314640B71F1D2F6E.tmp' to '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Tomate.uasset'
+[2026.05.28-15.22.26:570][862]LogFileHelpers: Saving Package: /Game/MiniMap/Trigo
+[2026.05.28-15.22.26:570][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MiniMap/Trigo] ([1] browsable assets)...
+[2026.05.28-15.22.26:570][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniMap/Trigo]
+[2026.05.28-15.22.26:570][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniMap/Trigo" FILE="../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Trigo.uasset" SILENT=true
+[2026.05.28-15.22.26:577][862]LogSavePackage: Moving output files for package: /Game/MiniMap/Trigo
+[2026.05.28-15.22.26:577][862]LogSavePackage: Moving '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/Trigo48C3A21948A42062A1BB5BB061901FB9.tmp' to '../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Content/MiniMap/Trigo.uasset'
+[2026.05.28-15.22.26:585][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.052 ms (total: 1.23 sec)
+[2026.05.28-15.22.26:733][862]LogStall: Shutdown...
+[2026.05.28-15.22.26:735][862]LogStall: Shutdown complete.
+[2026.05.28-15.22.26:849][862]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.26:849][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.26:945][862]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.26:945][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.26:962][862]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.26:962][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:036][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.28-15.22.27:036][862]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:036][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:144][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.28-15.22.27:144][862]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:144][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:236][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.28-15.22.27:236][862]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:236][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:318][862]LogText3D: BP_FarmTile0 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.28-15.22.27:333][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.28-15.22.27:333][862]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:333][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:417][862]LogText3D: BP_Contratacao0 : Text3DRenderer StaticMeshesRenderer Destroyed
+[2026.05.28-15.22.27:431][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.28-15.22.27:431][862]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:431][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:560][862]LogSlate: Window 'TechVerde_Version1 - Unreal Editor' being destroyed
+[2026.05.28-15.22.27:743][862]LogContentValidation: Enabled validators:
+[2026.05.28-15.22.27:743][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.28-15.22.27:743][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.28-15.22.27:743][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.28-15.22.27:743][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.28-15.22.27:743][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.28-15.22.27:743][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.28-15.22.27:743][862]LogContentValidation: Display: Starting to validate 4 assets (0 associated objects such as actors)
+[2026.05.28-15.22.27:743][862]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.28-15.22.27:745][862]AssetCheck: /Game/MiniMap/Cenoura Validating asset
+[2026.05.28-15.22.27:745][862]AssetCheck: /Game/MiniMap/Milho Validating asset
+[2026.05.28-15.22.27:745][862]AssetCheck: /Game/MiniMap/Tomate Validating asset
+[2026.05.28-15.22.27:745][862]AssetCheck: /Game/MiniMap/Trigo Validating asset
+[2026.05.28-15.22.27:745][862]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.28-15.22.27:745][862]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.05.28-15.22.27:805][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.05.28-15.22.27:829][862]Cmd: QUIT_EDITOR
+[2026.05.28-15.22.27:829][862]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.28-15.22.27:830][862]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ALUNO/Documents/GitHub/TechVerde/TechVerde_Version1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.28-15.22.27:853][863]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.28-15.22.27:854][863]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.28-15.22.27:854][863]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.28-15.22.27:854][863]LogWorld: UWorld::CleanupWorld for Level_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:854][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:898][863]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.28-15.22.27:898][863]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.28-15.22.27:906][863]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:906][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:911][863]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-15.22.27:911][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-15.22.27:915][863]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.28-15.22.27:916][863]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.28-15.22.28:208][863]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.28-15.22.28:208][863]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.28-15.22.28:208][863]LogAudio: Display: Audio Device unregistered from world 'Level_Menu'.
+[2026.05.28-15.22.28:208][863]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.28-15.22.28:208][863]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.28-15.22.28:210][863]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.28-15.22.28:220][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.28-15.22.28:220][863]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.28-15.22.28:224][863]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.28-15.22.28:224][863]LogExit: Preparing to exit.
+[2026.05.28-15.22.28:249][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.05.28-15.22.28:252][863]LogPython: Display: Object '/IKRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.28:254][863]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.28-15.22.29:243][863]LogEditorDataStorage: Deinitializing
+[2026.05.28-15.22.29:355][863]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.28-15.22.29:367][863]LogExit: Editor shut down
+[2026.05.28-15.22.29:369][863]LogExit: Transaction tracking system shut down
+[2026.05.28-15.22.29:473][863]LogExit: Object subsystem successfully closed.
+[2026.05.28-15.22.29:520][863]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.28-15.22.29:829][863]LogMemoryProfiler: Shutdown
+[2026.05.28-15.22.29:829][863]LogNetworkingProfiler: Shutdown
+[2026.05.28-15.22.29:829][863]LoadingProfiler: Shutdown
+[2026.05.28-15.22.29:829][863]LogTimingProfiler: Shutdown
+[2026.05.28-15.22.29:830][863]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.28-15.22.29:830][863]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.28-15.22.29:937][863]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/en-US/get-started-with-unreal-engine.
+[2026.05.28-15.22.30:194][863]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.28-15.22.30:198][863]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.28-15.22.30:198][863]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F97D860-451D-EA5B-4E28-6382CE6D8C4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.1-48512491%2B%2B%2BUE5%2BRelease-5.7&UserID=fe31e148430f55e68b1861a79350bd5a%7C03e8fabfee8045f6b092f0cb39683627%7C0a26e0ec-694c-480c-9dc6-e057bd539da2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.28-15.22.30:203][863]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.28-15.22.30:203][863]RenderDocPlugin: plugin has been unloaded.
+[2026.05.28-15.22.30:205][863]LogPakFile: Destroying PakPlatformFile
+[2026.05.28-15.22.30:327][863]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.28-15.22.30:344][863]LogExit: Exiting.
+[2026.05.28-15.22.30:366][863]Log file closed, 05/28/26 12:22:30
